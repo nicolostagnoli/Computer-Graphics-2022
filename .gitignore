@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+x64/
+Assignment02/x64
+.vs/
