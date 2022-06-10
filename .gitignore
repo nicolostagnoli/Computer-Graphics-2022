@@ -34,3 +34,7 @@
 x64/
 Assignment02/x64
 .vs/
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
